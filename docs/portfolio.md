@@ -44,7 +44,7 @@ sidebar_position: 4
 
 ## About another me 🌟
 
-What do you think of the little whale above **(・・ )?** Yeah, that’s a whale who studies and works, is quite serious and often worries about the future **(´･ᴗ･ `)**.
+What do you think of the little whale above **(・・ )?** Yeah, that’s a whale who studies and works, is quite serious and often worries about the future **(´･ᴗ･ ``)**.
 _Be careful, I’m going to talk a lot !_ **(☆ω☆)**
 As for me **( ˙꒳​˙ )**, I’m a whale who swims in the clouds full of dreams, I pursue my passion and interests to nourish my soul **(っ ˘ω˘ς )**. I like quiet and peaceful places **(´꒳`)♡**, away from crowded and noisy places **(￣ ￣|||)**. I like to spend my days off at home cooking, making coffee, reading manga and listening to soft music **(´,,•ω•,,)♡**.
 
