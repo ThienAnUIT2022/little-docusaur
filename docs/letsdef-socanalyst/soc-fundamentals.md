@@ -1,29 +1,28 @@
 ---
-id: c1-w1
 title: SOC Foundamentals
 sidebar_position: 2
 ---
 
 Nè nè, mọi người biết gì hong? Khóa học này quá đỉnh lun! Tại sao ư? Tại vì mọi người có thể tìm hiểu về quy trình làm việc và hệ thống như trong một doanh nghiệp thật sự vậy. Lúc tôi và cậu ấy biết được cũng bất ngờ lắm, trước giờ cứ thắc mắc mãi thôi ~ ehehe. Chà, những người tuyệt vời đã tạo ra trang web này rất tận tâm rồi, 2 chúng tôi cũng phải cố gắng học mới được! À phải, ngoài ra họ còn cho một [playlist](https://open.spotify.com/playlist/0G35948whLbeCBjHjIAIES?si=daa3f1bd77ff4166) trên Spotify để vừa nghe vừa học á, chu đáo ghê chưa~
 
-> "Lúc trước ai giới thiệu trang web cho tụi mình ấy nhỉ?" - Cậu ấy hỏi \
-> "Hmmm... Tớ quên mất rồi :v" - Tôi nói \
-> "Nhưng mà rất biết ơn họ, nhỉ?" - Chúng tôi đồng thanh
+> _"Lúc trước ai giới thiệu trang web cho tụi mình ấy nhỉ?" - Cậu ấy hỏi_ \
+> _"Hmmm... Tớ quên mất rồi :v" - Tôi nói_ \
+> _"Nhưng mà rất biết ơn họ, nhỉ?" - Chúng tôi đồng thanh_
 
 - [📌 Tổng Quan Khóa Học SOC Analyst Learning Path (LetsDefend)](#-tổng-quan-khóa-học-soc-analyst-learning-path-letsdefend)
-  - [🏢 Giới Thiệu về SOC](#-giới-thiệu-về-soc)
-    - [🎯 Bạn sẽ học được:](#-bạn-sẽ-học-được)
-  - [🔹 Các Loại Mô Hình SOC](#-các-loại-mô-hình-soc)
-  - [👨‍💻 Vai Trò trong SOC](#-vai-trò-trong-soc)
-  - [🔍 SIEM và Mối Quan Hệ với SOC Analyst](#-siem-và-mối-quan-hệ-với-soc-analyst)
-  - [📜 Quản Lý Log (Log Management)](#-quản-lý-log-log-management)
-  - [🖥️ EDR - Endpoint Detection and Response](#️-edr---endpoint-detection-and-response)
-  - [🤖 SOAR - Security Orchestration Automation and Response](#-soar---security-orchestration-automation-and-response)
-  - [🌍 Threat Intelligence Feed](#-threat-intelligence-feed)
-  - [❌ Những Sai Lầm Phổ Biến của SOC Analyst](#-những-sai-lầm-phổ-biến-của-soc-analyst)
-  - [🎯 Kết Luận](#-kết-luận)
+- [🏢 Giới Thiệu về SOC](#-giới-thiệu-về-soc)
+  - [🎯 Bạn sẽ học được:](#-bạn-sẽ-học-được)
+- [🔹 Các Loại Mô Hình SOC](#-các-loại-mô-hình-soc)
+- [👨‍💻 Vai Trò trong SOC](#-vai-trò-trong-soc)
+- [🔍 SIEM và Mối Quan Hệ với SOC Analyst](#-siem-và-mối-quan-hệ-với-soc-analyst)
+- [📜 Quản Lý Log (Log Management)](#-quản-lý-log-log-management)
+- [🖥️ EDR - Endpoint Detection and Response](#️-edr---endpoint-detection-and-response)
+- [🤖 SOAR - Security Orchestration Automation and Response](#-soar---security-orchestration-automation-and-response)
+- [🌍 Threat Intelligence Feed](#-threat-intelligence-feed)
+- [❌ Những Sai Lầm Phổ Biến của SOC Analyst](#-những-sai-lầm-phổ-biến-của-soc-analyst)
+- [🎯 Kết Luận](#-kết-luận)
 
-# 📌 Tổng Quan Khóa Học SOC Analyst Learning Path (LetsDefend)
+## 📌 Tổng Quan Khóa Học SOC Analyst Learning Path (LetsDefend)
 
 ## 🏢 Giới Thiệu về SOC
 

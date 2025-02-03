@@ -1,5 +1,4 @@
 ---
-id: Overview
 title: Giới thiệu SOC Analyst Learning Path từ LetsDefend
 sidebar_position: 1
 ---

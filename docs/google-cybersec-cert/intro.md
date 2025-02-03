@@ -1,5 +1,4 @@
 ---
-id: intro
 title: Giới thiệu Series Google CyberSecurity Certificate
 sidebar_position: 1
 ---

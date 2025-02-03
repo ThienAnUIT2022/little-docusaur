@@ -1,12 +1,11 @@
 ---
-id: c1-w1
 title: Foundations of Cybersecurity - Week1
 sidebar_position: 2
 ---
 
 Trong tuần đầu tiên của khóa học "Foundations of Cybersecurity", tôi và cậu ấy đã tìm hiểu về các thuật ngữ và khái niệm quan trọng trong lĩnh vực an ninh mạng cũng như biết được thêm về những vị trí nghề nghiệp liên quan đến an ninh mạng. Xem những video chia sẻ từ nhân viên trong Google làm chúng tôi ngưỡng mộ thật đấy!
 
-> "Nếu mà được làm cho Google thì sao nhỉ?" - Tôi và cậu ấy cười.
+> _"Nếu mà được làm cho Google thì sao nhỉ?" - Tôi và cậu ấy cười_
 
 - [📌 Các thuật ngữ và khái niệm quan trọng trong an ninh mạng](#-các-thuật-ngữ-và-khái-niệm-quan-trọng-trong-an-ninh-mạng)
   - [1️⃣ Khái niệm cốt lõi](#1️⃣-khái-niệm-cốt-lõi)
