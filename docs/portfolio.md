@@ -40,7 +40,7 @@ sidebar_position: 1
 - **GitHub**: [ThienAnUIT2022](https://github.com/ThienAnUIT2022)
 - **Facebook**: [anotherLittleW](https://www.facebook.com/anotherLittleW/)
 
-# And... I'm another little Whale 🐋
+## And... I'm another little Whale 🐋
 
 ## About another me 🌟
 

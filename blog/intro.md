@@ -1,7 +1,7 @@
 ---
 sidebar_label: "Intro"
 sidebar_position: 1
-authors: [little Whale]
+authors: [littleWhale]
 ---
 
 # Tự truyện tôi viết ~

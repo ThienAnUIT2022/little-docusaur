@@ -11,7 +11,7 @@ Nè nè, mọi người biết gì hong? Khóa học này quá đỉnh lun! Tạ
 
 - [📌 Tổng Quan Khóa Học SOC Analyst Learning Path (LetsDefend)](#-tổng-quan-khóa-học-soc-analyst-learning-path-letsdefend)
 - [🏢 Giới Thiệu về SOC](#-giới-thiệu-về-soc)
-  - [🎯 Bạn sẽ học được:](#-bạn-sẽ-học-được)
+  - [🎯 Bạn sẽ học được](#-bạn-sẽ-học-được)
 - [🔹 Các Loại Mô Hình SOC](#-các-loại-mô-hình-soc)
 - [👨‍💻 Vai Trò trong SOC](#-vai-trò-trong-soc)
 - [🔍 SIEM và Mối Quan Hệ với SOC Analyst](#-siem-và-mối-quan-hệ-với-soc-analyst)
@@ -28,7 +28,7 @@ Nè nè, mọi người biết gì hong? Khóa học này quá đỉnh lun! Tạ
 
 Security Operations Center (SOC) là trung tâm bảo mật nơi các chuyên gia giám sát, phân tích và phản ứng với các mối đe dọa an ninh mạng. Khóa học này giúp bạn hiểu về cấu trúc, hoạt động của SOC cũng như cách sử dụng các công cụ SOC.
 
-### 🎯 Bạn sẽ học được:
+### 🎯 Bạn sẽ học được
 
 - Cấu trúc và vận hành của SOC
 - Các công cụ SOC phổ biến

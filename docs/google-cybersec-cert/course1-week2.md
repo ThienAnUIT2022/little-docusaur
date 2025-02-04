@@ -8,12 +8,12 @@ Xin chào mọi người, nội dung tuần trước thế nào, có khó hiểu
 - [🔥 Tổng quan về các cuộc tấn công mạng và hậu quả của chúng](#-tổng-quan-về-các-cuộc-tấn-công-mạng-và-hậu-quả-của-chúng)
 - [🚨 Giới thiệu](#-giới-thiệu)
 - [🎣 Phishing (Lừa đảo trực tuyến)](#-phishing-lừa-đảo-trực-tuyến)
-  - [🔹 Các dạng phishing phổ biến:](#-các-dạng-phishing-phổ-biến)
+  - [🔹 Các dạng phishing phổ biến](#-các-dạng-phishing-phổ-biến)
 - [🦠 Malware (Phần mềm độc hại)](#-malware-phần-mềm-độc-hại)
-  - [🔹 Các loại malware phổ biến:](#-các-loại-malware-phổ-biến)
+  - [🔹 Các loại malware phổ biến](#-các-loại-malware-phổ-biến)
 - [🎭 Social Engineering (Kỹ thuật lừa đảo xã hội)](#-social-engineering-kỹ-thuật-lừa-đảo-xã-hội)
-  - [🔹 Các hình thức social engineering phổ biến:](#-các-hình-thức-social-engineering-phổ-biến)
-  - [🛠️ Các nguyên tắc của social engineering:](#️-các-nguyên-tắc-của-social-engineering)
+  - [🔹 Các hình thức social engineering phổ biến](#-các-hình-thức-social-engineering-phổ-biến)
+  - [🛠️ Các nguyên tắc của social engineering](#️-các-nguyên-tắc-của-social-engineering)
 - [🔑 Các Loại Tấn Công Mạng Khác](#-các-loại-tấn-công-mạng-khác)
   - [🛠️ Password Attacks](#️-password-attacks)
   - [🏠 Physical Attacks](#-physical-attacks)
@@ -21,8 +21,8 @@ Xin chào mọi người, nội dung tuần trước thế nào, có khó hiểu
   - [🏗️ Supply Chain Attacks](#️-supply-chain-attacks)
   - [🔐 Cryptographic Attacks](#-cryptographic-attacks)
 - [🕵️‍♂️ Hiểu về Threat Actors (Tác nhân đe dọa)](#️️-hiểu-về-threat-actors-tác-nhân-đe-dọa)
-  - [🔹 Các loại threat actors phổ biến:](#-các-loại-threat-actors-phổ-biến)
-  - [🎭 Các loại hacker:](#-các-loại-hacker)
+  - [🔹 Các loại threat actors phổ biến](#-các-loại-threat-actors-phổ-biến)
+  - [🎭 Các loại hacker](#-các-loại-hacker)
 - [🎯 Kết Luận](#-kết-luận)
 - [📖 Tóm tắt thuật ngữ - Course 1, Module 2](#-tóm-tắt-thuật-ngữ---course-1-module-2)
 
@@ -49,7 +49,7 @@ Trước đó, hãy cùng điểm qua 8 lĩnh vực bảo mật của CISSP đ�
 
 Phishing là việc sử dụng các phương tiện kỹ thuật số để đánh lừa người dùng tiết lộ thông tin nhạy cảm hoặc cài đặt phần mềm độc hại.
 
-### 🔹 Các dạng phishing phổ biến:
+### 🔹 Các dạng phishing phổ biến
 
 - **Business Email Compromise (BEC)**: Giả mạo email từ nguồn tin cậy để yêu cầu thông tin.
 - **Spear phishing**: Nhắm vào một cá nhân hoặc nhóm cụ thể.
@@ -63,7 +63,7 @@ Phishing là việc sử dụng các phương tiện kỹ thuật số để đ�
 
 Malware là phần mềm được thiết kế để gây hại cho thiết bị hoặc mạng.
 
-### 🔹 Các loại malware phổ biến:
+### 🔹 Các loại malware phổ biến
 
 - **Viruses**: Cần sự can thiệp của người dùng để lây nhiễm hệ thống.
 - **Worms**: Tự động lan truyền mà không cần hành động từ người dùng.
@@ -76,14 +76,14 @@ Malware là phần mềm được thiết kế để gây hại cho thiết bị
 
 Tấn công kỹ thuật xã hội khai thác sự tin tưởng của con người để thu thập thông tin nhạy cảm.
 
-### 🔹 Các hình thức social engineering phổ biến:
+### 🔹 Các hình thức social engineering phổ biến
 
 - **Social media phishing**: Thu thập thông tin cá nhân từ mạng xã hội.
 - **Watering hole attack**: Tấn công vào các trang web thường xuyên được truy cập.
 - **USB baiting**: Để lại USB chứa malware để dụ nạn nhân cắm vào hệ thống.
 - **Physical social engineering**: Giả dạng nhân viên hoặc khách hàng để truy cập trái phép.
 
-### 🛠️ Các nguyên tắc của social engineering:
+### 🛠️ Các nguyên tắc của social engineering
 
 - **Authority**: Giả danh người có quyền lực.
 - **Intimidation**: Sử dụng chiến thuật đe dọa.
@@ -133,13 +133,13 @@ Tấn công vào các hệ thống mã hóa dữ liệu.
 
 Các tác nhân đe dọa có nhiều động cơ và phương thức tấn công khác nhau.
 
-### 🔹 Các loại threat actors phổ biến:
+### 🔹 Các loại threat actors phổ biến
 
 - **Advanced Persistent Threats (APTs)**: Nhóm hacker có tổ chức, nhắm vào mục tiêu lớn như chính phủ hoặc tập đoàn.
 - **Insider Threats**: Người trong tổ chức lạm dụng quyền hạn.
 - **Hacktivists**: Tấn công vì lý do chính trị hoặc xã hội.
 
-### 🎭 Các loại hacker:
+### 🎭 Các loại hacker
 
 ![Type of attackers](./img/Attackers.png)
 
