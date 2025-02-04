@@ -28,7 +28,7 @@ const config = {
   deploymentBranch: "gh-pages",
   trailingSlash: false,
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
@@ -89,9 +89,13 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Tutorial",
+            label: "Study with little Whale",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          {
+            to: "/blog",
+            label: "little Whale's autobiography",
+            position: "left",
+          },
           {
             href: "https://github.com/facebook/docusaurus",
             label: "GitHub",
@@ -102,15 +106,6 @@ const config = {
       footer: {
         style: "dark",
         links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Tutorial",
-                to: "/docs/intro",
-              },
-            ],
-          },
           {
             title: "Community",
             items: [
@@ -132,7 +127,7 @@ const config = {
             title: "More",
             items: [
               {
-                label: "Blog",
+                label: "little Whale's autobiography",
                 to: "/blog",
               },
               {

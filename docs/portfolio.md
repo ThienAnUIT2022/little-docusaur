@@ -1,6 +1,6 @@
 ---
 sidebar_label: "I'm little Whale :3"
-sidebar_position: 4
+sidebar_position: 1
 ---
 
 # Hi, I'm a little Whale 🐳
