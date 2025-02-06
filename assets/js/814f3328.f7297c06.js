@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklittle_docusaur=self.webpackChunklittle_docusaur||[]).push([[472],{5513:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Intro","permalink":"/little-docusaur/blog/intro","unlisted":false,"date":"2025-02-06T03:16:16.000Z"}]}')}}]);
