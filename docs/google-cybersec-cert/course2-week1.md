@@ -3,6 +3,8 @@ title: "Play It Safe: Manage Security Risks - Week 1"
 sidebar_position: 6
 ---
 
+Chào buổi tối, mọi người vẫn khỏe chứ? Hôm nay là bài học đầu tiên của khóa học mới rồi, Course 2 này sẽ tập trung vào các nội dung gồm chi tiết CISSP's domains, security frameworks and controls, cách sử dụng security tools and audits. Qua đó giúp mọi người có hiểu biết sâu hơn về cách để tổ chức và người dùng an toàn khỏi các mối đe dọa, rủi ro và lỗ hổng. Giờ thì bắt đầu thôi nào.
+
 ## 🔐 Tám lĩnh vực bảo mật của CISSP
 
 ## 📌 Giới thiệu
