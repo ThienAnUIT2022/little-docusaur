@@ -11,7 +11,7 @@ Bạn là một forensic investigator tại một tổ chức tài chính và SI
 
 ---
 
-## Công cụ sử dụng
+## 🛠️ Công cụ sử dụng
 
 Volatility 3 là một framework pháp y bộ nhớ được sử dụng rộng rãi trong điều tra số để phân tích dữ liệu từ RAM dumps. Công cụ này giúp các chuyên gia bảo mật kiểm tra và phát hiện dấu vết hoạt động đáng ngờ trên hệ thống.
 
@@ -27,14 +27,14 @@ Volatility 3 là một framework pháp y bộ nhớ được sử dụng rộng 
 - **Plugin Execution:** Mỗi plugin đảm nhiệm một tác vụ cụ thể như liệt kê tiến trình, kiểm tra kết nối mạng, hoặc phân tích DLL đã tải.
 - **Output và Phân Tích:** Plugins trích xuất thông tin có giá trị để giúp điều tra hành vi hệ thống và phát hiện mã độc.
 
-### Cheatsheet có thể giúp bạn Volatility 3:
+### 📜 Cheatsheet có thể giúp bạn Volatility 3:
 
 - [Ashley Pearson Cheatsheet](https://blog.onfvp.com/post/volatility-cheatsheet/)
 - [Hacktricks Cheatsheet](https://book.hacktricks.xyz/generic-methodologies-and-resources/basic-forensic-methodology/memory-dump-analysis/volatility-cheatsheet)
 
 ---
 
-## Quá trình phân tích
+## 🔬 Quá trình phân tích
 
 Là một người điều tra, bạn phải tự hỏi mình ba câu hỏi chính:
 
@@ -42,7 +42,7 @@ Là một người điều tra, bạn phải tự hỏi mình ba câu hỏi chí
 - **Where** - Bạn sẽ tìm thấy bằng chứng tấn công ở đâu? (ví dụ: bộ nhớ, dựa trên máy chủ, mạng, ...)
 - **How** - Bạn có thể làm thế nào để thao tác dữ liệu và xem nó?
 
-### Câu 1: Xác định tên của tiến trình độc hại giúp hiểu bản chất của cuộc tấn công. Tên của tiến trình độc hại là gì?
+### 🔍 Câu 1: Xác định tên của tiến trình độc hại giúp hiểu bản chất của cuộc tấn công. Tên của tiến trình độc hại là gì?
 
 | Trả lời | powershell.exe |
 | ------- | -------------- |
@@ -61,7 +61,7 @@ Sau khi chạy câu lệnh thì có vài kết quả như RuntimeBroker, thunder
 ![malfind command](<./img/Reveal(2).png>)
 ![malfind command2](<./img/Reveal(3).png>)
 
-### Câu 2: Biết ID tiến trình cha (PPID) của tiến trình độc hại hỗ trợ theo dõi, phân cấp tiến trình và hiểu được luồng tấn công. PID cha của tiến trình độc hại là gì?
+### 🔍 Câu 2: Biết ID tiến trình cha (PPID) của tiến trình độc hại hỗ trợ theo dõi, phân cấp tiến trình và hiểu được luồng tấn công. PID cha của tiến trình độc hại là gì?
 
 | Trả lời | 4120 |
 | ------- | ---- |
