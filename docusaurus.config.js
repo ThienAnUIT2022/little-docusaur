@@ -72,7 +72,15 @@ const config = {
       }),
     ],
   ],
-
+  plugins: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+        highlightSearchTermsOnTargetPage: true,
+      },
+    ],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
