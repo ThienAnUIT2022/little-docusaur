@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ThienAnUIT2022.github.io/little-docusaur/blog</id>
+    <id>https://ThienAnUIT2022.github.io/blog</id>
     <title>little Whale's Site Blog</title>
-    <updated>2025-02-21T04:09:06.000Z</updated>
+    <updated>2025-02-21T04:16:41.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ThienAnUIT2022.github.io/little-docusaur/blog"/>
+    <link rel="alternate" href="https://ThienAnUIT2022.github.io/blog"/>
     <subtitle>little Whale's Site Blog</subtitle>
-    <icon>https://ThienAnUIT2022.github.io/little-docusaur/img/favicon.ico</icon>
+    <icon>https://ThienAnUIT2022.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Nắng vàng và bụi dây leo]]></title>
-        <id>https://ThienAnUIT2022.github.io/little-docusaur/blog/8-2-2025</id>
-        <link href="https://ThienAnUIT2022.github.io/little-docusaur/blog/8-2-2025"/>
-        <updated>2025-02-21T04:09:06.000Z</updated>
+        <id>https://ThienAnUIT2022.github.io/blog/8-2-2025</id>
+        <link href="https://ThienAnUIT2022.github.io/blog/8-2-2025"/>
+        <updated>2025-02-21T04:16:41.000Z</updated>
         <summary type="html"><![CDATA[| 7h30 - Thứ bảy, 8/2/25 - 23°C |]]></summary>
         <content type="html"><![CDATA[<table><thead><tr><th><code>7h30 - Thứ bảy, 8/2/25 - 23°C</code></th></tr></thead></table>
 <p>Đó là những thông tin trên màn hình khóa điện thoại. Dạo này buổi sáng trời se se lạnh nhưng nắng vẫn đẹp, vàng ươm và ấm áp.</p>
@@ -19,7 +19,7 @@
 <p>Một ngày tràn đầy năng lượng.</p>
 <p>Nhìn vào chùm dây leo trước hiên nhà, ánh nắng xuân đang phủ lên từng tán lá, nụ hoa, như một lớp bụi tiên trong phim cổ tích khiến con tim tôi như vỡ òa.</p>
 <p>Đây không phải lần đầu tôi thấy cảnh này, nhưng mỗi lần nhìn tôi lại xuýt xoa "Cảnh này mà làm phim thì đẹp phải biết". Lại như một thói quen, tôi cầm điện thoại lên, thoăn thoắt như chim ruồi tìm mật, loanh qua loanh quanh bụi dây leo ngập nắng để tìm góc chụp có thể diễn tả được vẻ đẹp thơ mộng này. Nhưng mãi vẫn chẳng tìm được, bất chợt một cơn gió bấc mát lành thổi qua. Nhìn thấy những chiếc lồng đèn đung đưa trong gió, một ý tưởng nãy lên trong đầu tôi. Rằng thay vì một bức ảnh chỉ có chùm dây leo kia thì lấy nó làm nền và tâm điểm là chiếc lồng đèn.</p>
-<p><img decoding="async" loading="lazy" alt="illustration image" src="https://thienanuit2022.github.io/little-docusaur/assets/images/IMG_20250208_085830-0ed1681de2befc268c53380904956bd0.jpg" width="3773" height="2123" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="illustration image" src="https://thienanuit2022.github.io/assets/images/IMG_20250208_085830-0ed1681de2befc268c53380904956bd0.jpg" width="3773" height="2123" class="img_ev3q"></p>
 <blockquote>
 <p><em>"Đôi khi ta quá tập trung vào cảnh đẹp làm cho bức ảnh trở nên đơn điệu mà quên mất rằng đó chỉ là "cảnh", là phần nền làm nổi bật cho một sự vật khác. Khi cảnh và vật hài hòa, một bức ảnh đẹp được ra đời".</em></p>
 </blockquote>]]></content>
@@ -30,9 +30,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Tự truyện tôi viết ~]]></title>
-        <id>https://ThienAnUIT2022.github.io/little-docusaur/blog/intro</id>
-        <link href="https://ThienAnUIT2022.github.io/little-docusaur/blog/intro"/>
-        <updated>2025-02-21T04:09:06.000Z</updated>
+        <id>https://ThienAnUIT2022.github.io/blog/intro</id>
+        <link href="https://ThienAnUIT2022.github.io/blog/intro"/>
+        <updated>2025-02-21T04:16:41.000Z</updated>
         <summary type="html"><![CDATA[Chao xìn, xin chào ヽ(・∀・)ﾉ]]></summary>
         <content type="html"><![CDATA[<p><strong>Chao xìn, xin chào ヽ(・∀・)ﾉ</strong>
 Mọi người học chán gòi đúng hong? (´｡• ω •｡`) Vậy thì thư giãn thôi. Mọi người có hay đọc mấy câu chuyện ngắn hong? Tôi đang định viết mấy mẫu chuyện ngắn về cuộc sống hàng ngày của mình, có thể nó chỉ đơn giản là cảm nghĩ của tôi về việc gì đó, hoặc sự việc tôi muốn chia sẻ cho mọi người, hoặc chỉ là một vài bức hình ưng ý tôi chụp được trong ngày thôi ~</p>
