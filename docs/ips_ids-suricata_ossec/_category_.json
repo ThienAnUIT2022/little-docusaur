@@ -1,8 +1,0 @@
-{
-  "label": "IPS/IDS (Suricata, OSSEC)",
-  "position": 5,
-  "link": {
-    "type": "generated-index",
-    "description": "Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS) with Suricata and OSSEC"
-  }
-}
