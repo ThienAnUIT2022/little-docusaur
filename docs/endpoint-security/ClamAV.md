@@ -34,22 +34,22 @@ Heuristic Analysis giúp phát hiện các phần mềm độc hại chưa có t
 - **Phát hiện macro độc hại**: Kiểm tra trong file tài liệu (Word, Excel) để tìm macro có khả năng thực thi mã độc.
 - **Sandbox emulation (giới hạn)**: ClamAV có thể kiểm tra một số mẫu mã và giả lập hành vi để phát hiện nếu file cố gắng thực thi lệnh nguy hiểm.
 
-<details markdown="1">
+<details>
 <summary>Chú thích về Entropy</summary>
 
-> [!NOTE] INFO
-> Entropy là một chỉ số quan trọng trong phân tích heuristic, đo lường mức độ ngẫu nhiên của dữ liệu trong file. Công thức Shannon entropy được sử dụng như sau:
->
-> $$
-> H(X) = - \sum\_{i=1}^{n} P(x_i) \log_2 P(x_i)
-> $$
->
-> - **Ý nghĩa**:
->
->   - Giá trị entropy thấp (gần 0) biểu thị dữ liệu có tính dự đoán cao (ví dụ: file văn bản thuần túy).
->   - Giá trị entropy cao (gần 8 đối với file nhị phân 8-bit) thường cho thấy dữ liệu đã bị nén, mã hóa, hoặc được obfuscate—điều này thường xuất hiện ở các file malware đóng gói (packed malware).
->
-> - **Ứng dụng trong ClamAV**: Phân tích entropy giúp ClamAV nhận diện các file có cấu trúc bất thường, từ đó cảnh báo về khả năng là malware hoặc ransomware.
+INFO
+Entropy là một chỉ số quan trọng trong phân tích heuristic, đo lường mức độ ngẫu nhiên của dữ liệu trong file. Công thức Shannon entropy được sử dụng như sau:
+
+$$
+H(X) = - \sum_{i=1}^{n} P(x_i) \log_2 P(x_i)
+$$
+
+- **Ý nghĩa**:
+
+  - Giá trị entropy thấp (gần 0) biểu thị dữ liệu có tính dự đoán cao (ví dụ: file văn bản thuần túy).
+  - Giá trị entropy cao (gần 8 đối với file nhị phân 8-bit) thường cho thấy dữ liệu đã bị nén, mã hóa, hoặc được obfuscate—điều này thường xuất hiện ở các file malware đóng gói (packed malware).
+
+- **Ứng dụng trong ClamAV**: Phân tích entropy giúp ClamAV nhận diện các file có cấu trúc bất thường, từ đó cảnh báo về khả năng là malware hoặc ransomware.
 
 </details>
 
