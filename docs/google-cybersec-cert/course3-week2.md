@@ -3,11 +3,11 @@ title: "Connect and Protect: Networks and Network Security - Week 2"
 sidebar_position: 15
 ---
 
-Konichiwa ~ **＼(≧▽≦)／** Mọi người đoán xem tôi là ai nào? Đúng rồi, là tôi đó! Ehehe ~ **(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)**
+Konichiwa ~ `＼(≧▽≦)／` Mọi người đoán xem tôi là ai nào? Đúng rồi, là tôi đó! Ehehe ~ `(/ />/ ▽ /</ /)`
 
-Mấy nay bận học trên trường nên tôi và cậu ấy không học khóa học của Google cũng như thực hành trên CyberDefender được. (╥﹏╥) Ngoài ra thì, nội dung của Course 3 này dài quá đi mất, hic **( ; ω ; )**
-Vì có nhìu hoạt động thực tế/thực hành để làm quen với công việc Incident Response và Cybersecurity Analyst nên cũng phải ráng hoi. Cũng như lần trước, tóm tắt các bài thực hành tôi và cậu ấy sẽ để bên dưới, mọi người nên xem qua để hiểu rõ hơn về quá trình làm việc thực tế nha. **(✿◕‿◕)**
-Và cám ơn mọi người vì vẫn còn theo dõi những bài blog này. **(^^\*)♡**
+Mấy nay bận học trên trường nên tôi và cậu ấy không học khóa học của Google cũng như thực hành trên CyberDefender được. (╥﹏╥) Ngoài ra thì, nội dung của Course 3 này dài quá đi mất, hic `( ; ω ; )`
+Vì có nhìu hoạt động thực tế/thực hành để làm quen với công việc Incident Response và Cybersecurity Analyst nên cũng phải ráng hoi. Cũng như lần trước, tóm tắt các bài thực hành tôi và cậu ấy sẽ để bên dưới, mọi người nên xem qua để hiểu rõ hơn về quá trình làm việc thực tế nha. `(✿◕‿◕)`
+Và cám ơn mọi người vì vẫn còn theo dõi những bài blog này. `(^^*)♡`
 
 Link các bài thực hành: [Bài thực hành 1](https://www.anphamtrthlittle.id.vn/docs/google-cybersec-cert/course3-mod3-Activity-3), [bài thực hành 2](https://www.anphamtrthlittle.id.vn/docs/google-cybersec-cert/course3-mod3-Activity-4), [bài thực hành 3](https://www.anphamtrthlittle.id.vn/docs/google-cybersec-cert/course3-mod3-Activity-5)
 
