@@ -3,6 +3,12 @@ title: "Tools of the Trade: Linux and SQL - Week 2"
 sidebar_position: 20
 ---
 
+Konbanwa~ `(´｡• ᵕ •｡)`, tôi và cậu ấy đã hoàn thành module 2 của course 4 rồi đây. Hôm nay chủ yếu là lý thuyết cơ bản về Linux, phần này sẽ có các bài tập thực hành để hiểu cách sử dụng các lệnh linux cơ bản, do là chỉ copy paste theo hướng dẫn và lệnh thì rất phổ biến nên hai chúng tôi sẽ không note lại.
+
+> _"Dạo này bận nghiên cứu đồ án nên hong có thời gian soạn mấy bài blog này, hic. `(・・;)ゞ`" - Tôi than vãn_ /
+> _"Chắc là học hết một lượt rồi soạn bài sau?" - Cậu ấy nói_ /
+> _"Vậy cũng được... hmmmm `(￣ヘ￣)`" - Tôi suy nghĩ_
+
 ## Kiến trúc Linux và các bản phân phối phổ biến 🐧🔧
 
 Linux được xây dựng từ các thành phần chính sau:
@@ -90,13 +96,13 @@ Tham khảo thêm:
 
 ## Quản lý package và công cụ quản lý package trong Linux 📦🔧
 
-## Giới thiệu về quản lý package 📚
+### Giới thiệu về quản lý package 📚
 
 - **Gói (Package)**: Phần mềm chứa các tệp cần thiết để cài đặt ứng dụng, bao gồm cả **dependencies** (các tệp bổ sung cần thiết để chạy ứng dụng).
 - **Package manager**: Công cụ giúp cài đặt, quản lý và gỡ bỏ các gói hoặc ứng dụng.
 - **Lưu ý**: Luôn sử dụng phiên bản gói mới nhất để đảm bảo các bản vá bảo mật và sửa lỗi mới nhất.
 
-## Các loại package managers 🛠️
+### Các loại package managers 🛠️
 
 - **Debian-based distributions** (ví dụ: Kali Linux, Ubuntu, Parrot):
 
@@ -107,23 +113,23 @@ Tham khảo thêm:
   - **RPM (Red Hat Package Manager)**: Quản lý pakage với định dạng `.rpm` (ví dụ: `Package-Version-Release_Architecture.rpm`).
   - **YUM (Yellowdog Updater Modified)**: Công cụ quản lý pakage qua CLI, tương thích với `.rpm`.
 
-## Công cụ quản lý package phổ biến ⚙️
+### Công cụ quản lý package phổ biến ⚙️
 
-### 1. APT (Advanced Package Tool) 🐧
+1. APT (Advanced Package Tool) 🐧
 
-- **Phân phối hỗ trợ**: Debian, Ubuntu, Kali Linux, Parrot.
-- **Các lệnh phổ biến**:
-  - Cập nhật danh sách gói: `sudo apt update`.
-  - Cài đặt gói: `sudo apt install <tên_gói>`.
-  - Gỡ bỏ gói: `sudo apt remove <tên_gói>`.
+   - **Phân phối hỗ trợ**: Debian, Ubuntu, Kali Linux, Parrot.
+   - **Các lệnh phổ biến**:
+     - Cập nhật danh sách gói: `sudo apt update`.
+     - Cài đặt gói: `sudo apt install <tên_gói>`.
+     - Gỡ bỏ gói: `sudo apt remove <tên_gói>`.
 
-### 2. YUM (Yellowdog Updater Modified) 🔴
+2. YUM (Yellowdog Updater Modified) 🔴
 
-- **Phân phối hỗ trợ**: CentOS, RHEL, AlmaLinux.
-- **Các lệnh phổ biến**:
-  - Cài đặt gói: `sudo yum install <tên_gói>`.
-  - Cập nhật gói: `sudo yum update`.
-  - Gỡ bỏ gói: `sudo yum remove <tên_gói>`.
+   - **Phân phối hỗ trợ**: CentOS, RHEL, AlmaLinux.
+   - **Các lệnh phổ biến**:
+     - Cài đặt gói: `sudo yum install <tên_gói>`.
+     - Cập nhật gói: `sudo yum update`.
+     - Gỡ bỏ gói: `sudo yum remove <tên_gói>`.
 
 Tham khảo thêm:
 
