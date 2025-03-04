@@ -5,8 +5,8 @@ sidebar_position: 20
 
 Konbanwa~ `(´｡• ᵕ •｡)`, tôi và cậu ấy đã hoàn thành module 2 của course 4 rồi đây. Hôm nay chủ yếu là lý thuyết cơ bản về Linux, phần này sẽ có các bài tập thực hành để hiểu cách sử dụng các lệnh linux cơ bản, do là chỉ copy paste theo hướng dẫn và lệnh thì rất phổ biến nên hai chúng tôi sẽ không note lại.
 
-> _"Dạo này bận nghiên cứu đồ án nên hong có thời gian soạn mấy bài blog này, hic. `(・・;)ゞ`" - Tôi than vãn_ /
-> _"Chắc là học hết một lượt rồi soạn bài sau?" - Cậu ấy nói_ /
+> _"Dạo này bận nghiên cứu đồ án nên hong có thời gian soạn mấy bài blog này, hic. `(・・;)ゞ`" - Tôi than vãn_ \
+> _"Chắc là học hết một lượt rồi soạn bài sau?" - Cậu ấy nói_ \
 > _"Vậy cũng được... hmmmm `(￣ヘ￣)`" - Tôi suy nghĩ_
 
 ## Kiến trúc Linux và các bản phân phối phổ biến 🐧🔧
