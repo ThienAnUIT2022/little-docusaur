@@ -1,6 +1,6 @@
 ---
 title: OSSEC - Host-based IDS
-sidebar-position: 1
+sidebar-position: 2
 ---
 
 ## 1. OSSEC là gì?
