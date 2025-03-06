@@ -40,7 +40,6 @@ You are about to download a malware sample. By clicking on "download", you decla
 
 - [`file_type:doc`](https://bazaar.abuse.ch/download/88ad296056a6be66969f1e5ce6694398944804a39d8465b42e0af73c5af12cb0/)
 - [`file_type:pdf`](https://bazaar.abuse.ch/download/5e303fd9317236b55429aedd5c7aa133f3ea9dd2a50402930c50c5fbcc6e27e6/)
-- [`file_type:exe`]()
 - [`file_type:sh`](https://bazaar.abuse.ch/download/bcefd8b11cd18d2e829285287e13ef29e50adbe986c737ebb5f69a01f616a9ba/)
 - [`file_type:PE`](https://bazaar.abuse.ch/download/0c3b276a645b603ef249cb10dca8e6c20d446713464598e873f9613724cbdc90/)
 
