@@ -6,6 +6,8 @@ authors: [littleWhale]
 
 # Tự truyện tôi viết ~
 
+<!-- truncate -->
+
 **Chao xìn, xin chào ヽ(・∀・)ﾉ**
 Mọi người học chán gòi đúng hong? (´｡• ω •｡`) Vậy thì thư giãn thôi. Mọi người có hay đọc mấy câu chuyện ngắn hong? Tôi đang định viết mấy mẫu chuyện ngắn về cuộc sống hàng ngày của mình, có thể nó chỉ đơn giản là cảm nghĩ của tôi về việc gì đó, hoặc sự việc tôi muốn chia sẻ cho mọi người, hoặc chỉ là một vài bức hình ưng ý tôi chụp được trong ngày thôi ~
 
