@@ -1,6 +1,6 @@
 ---
 title: "Assets, Threats, and Vulnerabilities - Week 2"
-sidebar_position: 27
+sidebar_position: 28
 ---
 
 ## **Tiếp cận an ninh mạng với tư duy của Attacker**
