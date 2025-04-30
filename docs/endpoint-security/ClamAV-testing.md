@@ -3,7 +3,7 @@ title: "ClamAV Testing on Windows and Kali"
 sidebar_position: 5
 ---
 
-## Cài đặt và kiểm thử ClamAV trên Windows
+## Cài đặt và thử nghiệm ClamAV trên Windows
 
 ### Cài đặt ClamAV trên Windows
 
@@ -18,7 +18,7 @@ sidebar_position: 5
 
    ![freshclam windows](./img/Screenshot%202025-03-05%20141014.png)
 
-### Kiểm thử ClamAV trên Windows
+### Thử nghiệm ClamAV trên Windows
 
 Để kiểm tra hiệu quả của ClamAV, bạn có thể sử dụng file kiểm thử EICAR, một file giả lập virus được sử dụng rộng rãi trong việc kiểm tra các phần mềm diệt virus.
 
@@ -53,31 +53,31 @@ ClamAV dễ dàng phát hiện các file test của EICAR nhưng khi gặp các 
 
 ---
 
-## Cài đặt và kiểm thử ClamAV trên Kali
+## Cài đặt và thử nghiệm ClamAV trên Kali
 
 ### Cài đặt ClamAV trên Kali
 
 1. **Cập nhật package manager**: Mở Terminal, cập nhật `apt` với lệnh `sudo apt update`.
 2. **Tải và cài đặt**:
 
-```bash
-sudo apt install clamav-daemon
-clamscan --version #Thử xem cài đặt thành công hay không
-sudo apt install clamtk #Phiên bản GUI của ClamAV
-```
+   ```bash
+   sudo apt install clamav-daemon
+   clamscan --version #Thử xem cài đặt thành công hay không
+   sudo apt install clamtk #Phiên bản GUI của ClamAV
+   ```
 
 3. **Cập nhật cơ sở dữ liệu**
 
-```bash
-sudo systemctl stop clamav-freshclam
-sudo freshclam
-sudo systemctl start clamav-freshclam
-sudo systemctl status clamav-freshclam
-```
+   ```bash
+   sudo systemctl stop clamav-freshclam
+   sudo freshclam
+   sudo systemctl start clamav-freshclam
+   sudo systemctl status clamav-freshclam
+   ```
 
 ![freshclam Kali](./img/Screenshot%20From%202025-03-05%2011-30-36.png)
 
-### Kiểm thử ClamAV trên Kali
+### Thử nghiệm ClamAV trên Kali
 
 Tương tự như Windows, chúng ta vẫn sẽ sử dụng EICAR test file và các file từ MalwareBazaar Database.
 
@@ -107,4 +107,4 @@ Với các file test EICAR thì ClamAV vẫn phát hiện tốt tương tự tr�
   ![img5](./img/Screenshot%202025-03-05%20235935.png)
   ![img6](./img/Screenshot%202025-03-06%20000310.png)
 
-## To be continued ...
+> To be continued...
