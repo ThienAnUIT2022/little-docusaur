@@ -24,15 +24,15 @@ MITRE ATT&CK là một khung (framework) kiến thức toàn diện về **tacti
 13. **Exfiltration (Rò rỉ dữ liệu)** – Chuyển dữ liệu ra ngoài qua FTP, HTTP, email, cloud storage… ([ATT&CK](https://en.wikipedia.org/wiki/ATT%26CK)).
 14. **Impact (Gây ảnh hưởng)** – Hoàn thành mục tiêu cuối cùng: mã hoá (ransomware), làm hỏng, chiếm đoạt tài nguyên, v.v. ([ATT&CK](https://en.wikipedia.org/wiki/ATT%26CK)).
 
-| **Cyber Kill Chain (CKC)**      | **MITRE ATT&CK - Tactics liên quan**                                 |
-| ------------------------------- | -------------------------------------------------------------------- |
-| 1. **Reconnaissance**           | - Reconnaissance                                                     |
-| 2. **Weaponization**            | - No direct tactic (handled outside MITRE scope)                     |
-| 3. **Delivery**                 | - Initial Access                                                     |
-| 4. **Exploitation**             | - Execution<\br>- Privilege Escalation<\br>- Defense Evasion         |
-| 5. **Installation**             | - Persistence                                                        |
-| 6. **Command and Control (C2)** | - Command and Control                                                |
-| 7. **Actions on Objectives**    | - Credential Access<\br>- Collection<\br>- Exfiltration<\br>- Impact |
+| **Cyber Kill Chain (CKC)**      | **MITRE ATT&CK - Tactics liên quan**                                          |
+| ------------------------------- | ----------------------------------------------------------------------------- |
+| 1. **Reconnaissance**           | - Reconnaissance                                                              |
+| 2. **Weaponization**            | - No direct tactic (handled outside MITRE scope)                              |
+| 3. **Delivery**                 | - Initial Access                                                              |
+| 4. **Exploitation**             | - Execution <br /> - Privilege Escalation <br /> - Defense Evasion            |
+| 5. **Installation**             | - Persistence                                                                 |
+| 6. **Command and Control (C2)** | - Command and Control                                                         |
+| 7. **Actions on Objectives**    | - Credential Access <br /> - Collection <br /> - Exfiltration <br /> - Impact |
 
 ## Các kỹ thuật (Techniques)
 
