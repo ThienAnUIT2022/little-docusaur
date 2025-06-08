@@ -7,8 +7,8 @@ sidebar_position: 1
 
 ## About Me 📝
 
-| I am a **third-year Information Security student**, passionate about building secure network applications and solving cybersecurity challenges. My near goal is to be an intern in the **SOC Tier 1** position, further I hope I can graduate on time and get a job in the Blue team. | ![Profile Picture](../static/img/avt.jpg) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| I am a third-year Information Security student at the University of Information Technology (VNU-HCM), passionate about building secure systems and solving cybersecurity challenges. I am now a intern with the role of building and managing the SOC system at CNSC. After graduation, I aim to work in a SOC/Blue Team role. I am committed to learning, practicing, and contributing effectively to any cybersecurity environment. | ![Profile Picture](../static/img/avt.jpg) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 
 ### Topics of interest
 
@@ -16,29 +16,43 @@ sidebar_position: 1
 
 ### Skills
 
-- **Programming**: `C++`, `Python`, `Assembly Intel x86`
-- **Tools**: `Nmap`, `Wireshark`, `GDB`, `pwntools`, `Nessus`, `Suricata`, `OSSEC`
-- **English**: TOEIC LR 690, TOEIC SW 280. Able to read and understand documents, scientific articles, write emails and essays as well as communicate at a basic level.
+- SOC systems: `ELK`, `Splunk`, `pfSense`, `Snort`, `OSSEC`, `ClamAV`.
+- Cybersecurity Tools: `Burp Suite`, `Wireshark`, `Nmap`, `Volatility`, `GDB`, `IDA Pro`, `Tcpdump`, `HexEditor`.
+- Programming & Scripting: `C/C++`, `Python`, `Bash`.
+- Security Concepts: SIEM, MITRE ATT&CK, Cyber Kill Chain, Incident Response, OWASP Top 10, ISO 27000 series.
+- System & Network: Linux (Kali, Ubuntu, Ubuntu Server), Windows AD, TCP/IP, OSI.
+- Languages: TOEIC LR 690, SW 280. Able to read technical docs, write reports/emails, and communicate at a basic level.
 
 ## Projects 🚀
 
-| **Project**                                  | **Description**                                                                                            | **Teammates**                          | **Role**    | **GitHub**                                       |
-| -------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------- | ----------- | ------------------------------------------------ |
-| **Network Scanner**                          | Built a multi-functional scanner for network analysis.                                                     | Huu Binh, Phuong Dai, Cong Danh        | Contributor | [View Code](https://github.com/fuondai/Adab_net) |
-| **Obfuscator and Clone Code Detector**       | Read, research, and reproduce the [article](https://link.springer.com/article/10.1186/s42400-023-00148-x). | Huu Binh, Phuong Dai, Cong Danh        | Leader      | -                                                |
-| **Active Directory Domain Services (AD DS)** | Learned how to manage users and data in domains, tested configuration on VMware.                           | Huu Binh, Cong Danh, Huynh Do Thien An | Contributor | -                                                |
-| **Personal Blog Website**                    | Created a simple blog website using Docusaurus.                                                            | -                                      | Creator     | -                                                |
+| **Project**                                  | **Description**                                                                                                                                                  | **Teammates**                          | **Role**  | **GitHub**                                                                |
+| -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | --------- | ------------------------------------------------------------------------- |
+| **EDR Research**                             | Integrated OSSEC, ClamAV and ELK Stack to monitor and detect endpoint threats.                                                                                   | Huu Binh                               | Developer | -                                                                         |
+| **G-IDCS**                                   | Reproduced a graph-based IDS model for CAN protocol from [IEEE paper](https://ieeexplore.ieee.org/abstract/document/10105249) using Python & ML (Random Forest). | Huu Binh, Cong Danh                    | Leader    | [Github](https://github.com/ThienAnUIT2022/G-IDCS_CAN_IDS_Implementation) |
+| **Active Directory Domain Services (AD DS)** | Learned how to manage users and data in domains, tested configuration on VMware.                                                                                 | Huu Binh, Cong Danh, Huynh Do Thien An | Developer | -                                                                         |
+| **Personal Blog Website**                    | Created a simple blog website using Docusaurus.                                                                                                                  | -                                      | Creator   | -                                                                         |
 
 ## Experience 💼
 
-- I wonder what I should write here?
+- SOC and Blue Team Skills Practice: Practicing on ELK, Snort, OSSEC, AD, forensic tools, and various Blue Team techniques.
+
+- Security Research & Development: Applying knowledge in real research topics (G-IDCS, EDR, etc.) and security tool integrations.
 
 ## Contact 📧
 
-- **Email**: [22520028@gm.uit.com](mailto:22520028@gm.uit.com)
+- **Email**: [anphamtrth@gmail.com](mailto:anphamtrth@gmail.com)
 - **Phone**: [082 627 4939](tel:0826274939)
 - **GitHub**: [ThienAnUIT2022](https://github.com/ThienAnUIT2022)
-- **Facebook**: [anotherLittleW](https://www.facebook.com/anotherLittleW/)
+- **Linkedin**: [An Pham Truong Thien](https://www.linkedin.com/in/an-pham-truong-thien/)
+- **Facebook**: [Pham Truong Thien An](https://www.facebook.com/anphamtrth/)
+
+---
+
+---
+
+---
+
+---
 
 ## And... I'm another little Whale 🐋
 
