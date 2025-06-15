@@ -38,29 +38,29 @@ sidebar_position: 10
 
 ### 5.1. KRI Nhóm Con người
 
-- Tỷ lệ nhân viên vi phạm ATTT < 1%
-- Số giờ đào tạo người lao động trong năm > 18h/năm
-- Tần suất xem xét các quyền đặc quyền trên hệ thống CNTT >= 4/tháng
+- Tỷ lệ nhân viên vi phạm ATTT `<` 1%
+- Số giờ đào tạo người lao động trong năm `>` 18h/năm
+- Tần suất xem xét các quyền đặc quyền trên hệ thống CNTT `>=` 4/tháng
 
 ### 5.2. KRI Nhóm Quy trình
 
-- Số lần gửi báo cáo thất bại < 1/tháng
-- Tỷ lệ giao dịch duyệt chậm < 1%
-- Thời gian xử lý sự cố nghiêm trọng < 60'
+- Số lần gửi báo cáo thất bại `<` 1/tháng
+- Tỷ lệ giao dịch duyệt chậm `<` 1%
+- Thời gian xử lý sự cố nghiêm trọng `<` 60'
 
 ### 5.3. KRI Nhóm Công nghệ
 
-- RTO <= 120 phút
-- Tỷ lệ uptime hệ thống >= 99.72%
-- Triển khai bản vá chậm < 2/tháng
-- Tần suất truy cập sai >= 5/tháng
+- RTO `<=` 120 phút
+- Tỷ lệ uptime hệ thống `>=` 99.72%
+- Triển khai bản vá chậm `<` 2/tháng
+- Tần suất truy cập sai `>=` 5/tháng
 
 ## 6. Ví dụ thực tế KRI
 
-- Dung lượng trống HDD còn < 0.5%: nguy cơ không sao lưu được
-- Tốc độ xe > 60km/h: nguy cơ tai nạn, bị phạt
-- Số lần login sai > 5: nguy cơ bị khóa tài khoản
-- Chỉ số SpO2 < 90%: nguy cơ suy hô hấp
+- Dung lượng trống HDD còn `<` 0.5%: nguy cơ không sao lưu được
+- Tốc độ xe `>` 60km/h: nguy cơ tai nạn, bị phạt
+- Số lần login sai `>` 5: nguy cơ bị khóa tài khoản
+- Chỉ số SpO2 `<` 90%: nguy cơ suy hô hấp
 
 ## 7. KRI & ISO 27001
 
