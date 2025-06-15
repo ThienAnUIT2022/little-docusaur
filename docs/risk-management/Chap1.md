@@ -82,4 +82,4 @@ Việc quản lý rủi ro giúp tổ chức:
 
 ---
 
-_Tham khảo: ISO 31000, ISO/IEC 27000, 27001, 27005, tài liệu giảng dạy UIT_
+**Tham khảo:** ISO 31000, ISO/IEC 27000, 27001, 27005, tài liệu giảng dạy UIT
