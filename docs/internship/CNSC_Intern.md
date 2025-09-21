@@ -101,15 +101,15 @@ Grafana K6 là một công cụ mã nguồn mở (open-source) được thiết 
 
 **Các loại executor:**
 
-| Executor                  | Hoạt động                                                                      | Chức năng                                                      | Tham số bắt buộc                                                  |
-| ------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------- | ----------------------------------------------------------------- |
-| **shared-iterations**     | Các VUs chia nhau thực hiện một số lượng iteration cố định.                    | Chạy một số lần nhất định, không quan trọng thời gian.         | iterations                                                        |
-| **per-vu-iterations**     | Mỗi VU thực hiện số lần iteration riêng biệt.                                  | Mô phỏng người dùng có hành vi cố định.                        | iterations, vus                                                   |
-| **constant-vus**          | Số VU cố định chạy liên tục trong khoảng thời gian xác định.                   | Giữ tải ổn định để đo performance.                             | vus, duration                                                     |
-| **ramping-vus**           | Tăng/giảm số VU theo thời gian.                                                | Mô phỏng mức tải tăng dần hoặc giảm dần.                       | stages: [{ duration, target }]                                    |
-| **constant-arrival-rate** | Gửi số request (iterations) cố định trong mỗi đơn vị thời gian, bất kể số VUs. | Mô phỏng hệ thống theo số request/giây (RPS).                  | rate, duration, preAllocatedVUs, maxVUs                           |
-| **ramping-arrival-rate**  | Tạo số lượng iteration thay đổi theo thời gian.                                | Mô phỏng số request/giây tăng/giảm theo thời gian.             | stages: [{ duration, target }], duration, preAllocatedVUs, maxVUs |
-| **externally-controlled** | Điều khiển test từ bên ngoài (API, k6 Operator, Testkube…).                    | Tích hợp vào các hệ thống test động như CI/CD hoặc Kubernetes. | —                                                                 |
+| Executor                  | Hoạt động                                                                      | Chức năng                                                      | Tham số bắt buộc                                                    |
+| ------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **shared-iterations**     | Các VUs chia nhau thực hiện một số lượng iteration cố định.                    | Chạy một số lần nhất định, không quan trọng thời gian.         | `iterations`                                                        |
+| **per-vu-iterations**     | Mỗi VU thực hiện số lần iteration riêng biệt.                                  | Mô phỏng người dùng có hành vi cố định.                        | `iterations, vus`                                                   |
+| **constant-vus**          | Số VU cố định chạy liên tục trong khoảng thời gian xác định.                   | Giữ tải ổn định để đo performance.                             | `vus, duration`                                                     |
+| **ramping-vus**           | Tăng/giảm số VU theo thời gian.                                                | Mô phỏng mức tải tăng dần hoặc giảm dần.                       | `stages: [{ duration, target }]`                                    |
+| **constant-arrival-rate** | Gửi số request (iterations) cố định trong mỗi đơn vị thời gian, bất kể số VUs. | Mô phỏng hệ thống theo số request/giây (RPS).                  | `rate, duration, preAllocatedVUs, maxVUs`                           |
+| **ramping-arrival-rate**  | Tạo số lượng iteration thay đổi theo thời gian.                                | Mô phỏng số request/giây tăng/giảm theo thời gian.             | `stages: [{ duration, target }], duration, preAllocatedVUs, maxVUs` |
+| **externally-controlled** | Điều khiển test từ bên ngoài (API, k6 Operator, Testkube…).                    | Tích hợp vào các hệ thống test động như CI/CD hoặc Kubernetes. | —                                                                   |
 
 ---
 
