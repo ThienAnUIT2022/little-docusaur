@@ -1,8 +1,9 @@
 ---
-sidebar_label: "I'm little Whale :3"
-title: "My portfolio"
-hide_table_of_contents: true
+sidebar_label: "My portfolio"
+sidebar_position: 1
 ---
+
+# Hi, I'm a little Whale 🐳
 
 ## About Me 📝
 
