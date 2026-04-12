@@ -48,9 +48,7 @@ sidebar_position: 1
 
 ---
 
-<!-- truncate -->
-
----
+:::note Click để xem thêm về "Another me" 🐋
 
 ## And... I'm another little Whale 🐋
 
@@ -128,3 +126,5 @@ I listen to many different genres of music and usually according to the time of 
 - When I was young, I had a lot of free time and my mother had an Origami book so I folded them a lot **(￣ ▽ ￣)ゞ**, gradually it became a hobby, whenever I had free time I would make them. I quite like regular polyhedra so I also found ways to make them for decoration, to make flower pots, to make desk calendars...etc. Besides, I like giving gifts to friends so I often make small gifts for them, sometimes I also wrap flowers myself.
 
 _Well, Did you really read this far **Σ( ° △ °|||) ?** A-A-Are you interested in me **(⁄ ⁄•⁄ω⁄•⁄ ⁄)** Just kidding, ehehe :b. Anyway, thank you for taking the time to read this, have a nice day~._
+
+:::
